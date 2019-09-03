@@ -32,6 +32,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>Springboothibernatetutorial</finalName>
+		<finalName>cricapp</finalName>
 	</build>
 </project>
